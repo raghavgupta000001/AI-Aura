@@ -1,12 +1,12 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.face_detector">
 
     <uses-feature
         android:name="android.hardware.camera"
         android:required="false" />
     <uses-permission android:name="android.permission.CAMERA"/>
     <application
-        android:label="CC Emotion AI"
-        android:name="${applicationName}"
+        android:label="aura_ai"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
