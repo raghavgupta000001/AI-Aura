@@ -3,7 +3,7 @@
 
 A privacy-first, on-device Flutter application built for the CCExtractor qualification task. Aura AI utilizes Google ML Kit to track facial telemetry and infer user conditions (Happy, Tired, Stressed) in real-time, while dynamically adjusting camera hardware exposure based on environmental lighting.
 
-*(Drop your demo video or screenshot here!)*
+*https://youtu.be/Uj7zLi5CmvM*
 
 ## ✨ Key Features
 
